@@ -11,7 +11,7 @@ python3 -m venv .venv
 Activate virtual environment and install dependencies
 ```
 source .venv/bin/activate
-pip3 install -r dependencies.txt
+pip3 install -r requirements.txt
 ```
 
 Now, run the jupyter notebook with
