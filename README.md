@@ -14,5 +14,10 @@ source .venv/bin/activate
 pip3 install -r dependencies.txt
 ```
 
-Now, run the jupyter notebook and open the Idealista.ipynb file
+Now, run the jupyter notebook with
+```
+jupyter notebook
+```
+
+And open the Idealista.ipynb file
 and you're good to go!
